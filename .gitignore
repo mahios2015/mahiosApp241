@@ -5,3 +5,5 @@
 /mahios241.Server/obj
 /.vs
 /mahios241.client/.vscode
+/mahios241.client/obj/Debug
+/mahios241.Server/bin/Debug/net8.0
